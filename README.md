@@ -6,8 +6,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-- Lugar onde posto alguns projetos pessoais e da faculdade...
-
 <br>
 
 <div align="center">
