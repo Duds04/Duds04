@@ -94,3 +94,11 @@
 📂 **Veja meus projetos no GitHub:**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Duds04-333333?style=for-the-badge&logo=github)](https://github.com/Duds04/)
+
+---
+
+## Certificados
+
+📜 **Veja todos os meus certificados e conquistas na área de computação neste [repositório GitHub de Certificados](https://github.com/Duds04/Certificados)**.
+
+[![Certificados](https://img.shields.io/badge/Certificados-333333?style=for-the-badge&logo=certification&logoColor=white)](https://github.com/Duds04/Certificados)
